@@ -9,14 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FRohrbaugh/branch-validation-jira
-.git"
+    "url": "https://github.com/FRohrbaugh/branch-validation-jira.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/FRohrbaugh/branch-validation-jira
--action/issues"
+    "url": "https://github.com/FRohrbaugh/branch-validation-jira-action/issues"
   },
   "files": [
     "dist"
