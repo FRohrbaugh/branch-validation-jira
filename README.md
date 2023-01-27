@@ -1,6 +1,6 @@
 # JIRA Branch Name Validation Action
 
-NOTE: I adjusted this repo for testing purposes on some personal repos. I would highly recommend going to the soce of worksome/jira-branch-name-validator-action. I am only making slight changes to allow '-' to work in the code. Thank you
+NOTE: I adjusted this repo for testing purposes on some personal repos. I would highly recommend going to the source of worksome/jira-branch-name-validator-action. I am only making slight changes to allow '-' to work in the code. Thank you
 
 A GitHub action for ensuring that the branch name contains a valid JIRA id (as format) and whether the same JIRA id is contained in the PR title and commit message(s).
 
